@@ -79,19 +79,19 @@ def update_product(products, product_name, quantity_sold):
     total_deduction = quantity_sold + free_items
     # Inventory update logic...
 
-=============================
+==========================================================================
           INVOICE
-=============================
+==========================================================================
 Date          : 2023-11-15 14:30:45
 Customer Name : John Doe
-------------------------------
+--------------------------------------------------------------------------
 S.N. Product Name          Quantity   Unit Price (NPR)   Total (NPR)
 1     Sunscreen            3          1580.00            4740.00
-------------------------------
+--------------------------------------------------------------------------
                         Subtotal: NPR 4194.69
                         VAT (13%): NPR 545.31
                         Total Amount: NPR 4740.00
-=============================
+==========================================================================
 Thank you for shopping!
 
 MIT License - Free for personal and commercial use
